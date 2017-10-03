@@ -1,4 +1,4 @@
-<<!DOCTYPE html>
+<!DOCTYPE html>
 <html><head>
     <meta charset="utf-8">    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>
@@ -68,57 +68,57 @@ width: 230px;
 	
 			             
 			<li class="panel panel-default">
-		       		       <a class="parent-btn" href="about-us" data-z="#collapse8">
+		       		       <a class="parent-btn" href="#" data-z="#collapse8">
 		       About Us</a>
 		       <i class="fa fa-angle-down collapsed" aria-expanded="false" aria-controls="collapse8" role="button" data-toggle="collapse" data-target="#collapse8" aria-hidden="true"></i>
 		     <ul id="collapse8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading8" aria-expanded="false" style="height: 0px;">
 	
 								                    
-				<li class="level2"><a href="management-team"> Management Team </a></li>
+				<li class="level2"><a href="#"> Management Team </a></li>
 
 												                    
-				<li class="level2"><a href="board-of-directors"> Board of Directors </a></li>
+				<li class="level2"><a href="#"> Board of Directors </a></li>
 
 												                    
-				<li class="level2"><a href="press-release"> Press Releases </a></li>
+				<li class="level2"><a href="#"> Press Releases </a></li>
 
 					
 		    
 		    </ul></li>
 			             
 			<li class="panel panel-default">
-		       		       <a class="parent-btn" href="the-amaranth-advantage" data-z="#collapse4">
+		       		       <a class="parent-btn" href="#" data-z="#collapse4">
 		       The Amaranth Advantage</a>
 		       <i class="fa fa-angle-down collapsed" aria-expanded="false" aria-controls="collapse4" role="button" data-toggle="collapse" data-target="#collapse4" aria-hidden="true"></i>
 		     <ul id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4" aria-expanded="false" style="height: 0px;">
 	
 								                    
-				<li class="level2"><a href="magnitude"> MAGNITUDE <sup>®</sup> </a></li>
+				<li class="level2"><a href="#"> MAGNITUDE <sup>®</sup> </a></li>
 
 												                    
-				<li class="level2"><a href="aptitude"> APTITUDE <sup>®</sup> </a></li>
+				<li class="level2"><a href="#"> APTITUDE <sup>®</sup> </a></li>
 
 												                    
-				<li class="level2"><a href="fortitude"> FORTITUDE <sup>®</sup> </a></li>
+				<li class="level2"><a href="#"> FORTITUDE <sup>®</sup> </a></li>
 
 					
 		    
 		    </ul></li>
 			             
 			<li class="panel panel-default">
-		       		       <a class="parent-btn" href="learning-center" data-z="#collapse44">
+		       		       <a class="parent-btn" href="#" data-z="#collapse44">
 		       Learning Center</a>
 		       <i class="fa fa-angle-down collapsed" aria-expanded="false" aria-controls="collapse44" role="button" data-toggle="collapse" data-target="#collapse44" aria-hidden="true"></i>
 		     <ul id="collapse44" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading44" aria-expanded="false" style="height: 0px;">
 	
 								                    
-				<li class="level2"><a href="learning-center#amar"> Amaranth Studies </a></li>
+				<li class="level2"><a href="#"> Amaranth Studies </a></li>
 
 												                    
-				<li class="level2"><a href="learning-center#publications"> Publications </a></li>
+				<li class="level2"><a href="#"> Publications </a></li>
 
 												                    
-				<li class="level2"><a href="learning-center#library"> Library </a></li>
+				<li class="level2"><a href="#"> Library </a></li>
 
 					
 		    
