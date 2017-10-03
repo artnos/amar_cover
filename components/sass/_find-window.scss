@@ -1,0 +1,27 @@
+#find-window{
+	position: fixed;
+	top:0;
+	right:0;
+	width: 0vw;
+	height: 100vh;
+	padding:0px;
+	background-color: white;
+	opacity: 0;	
+	@include transition(all .4s ease); 
+         .pull-right{
+         	background-color: #2A3F54;
+         }
+	iframe{
+		width: 100%;
+		height: 100%;
+	}
+	&.open{
+		width: 90vw;
+		opacity: 1;
+	}
+	.btn{
+		color:white;
+	}
+	
+
+}

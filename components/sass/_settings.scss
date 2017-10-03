@@ -1,0 +1,51 @@
+@import "compass/css3"; 
+
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700|Roboto:400,700,900');
+$font-robo: 'Roboto', sans-serif;
+//$font-mer: 'Merriweather', serif;
+$font-mer:$font-robo;
+
+$xsBreak : 480px ;
+$smBreak : 767px ;
+$mdBreak : 992px ;
+$mobileBreak: 1024px;
+$lrgBreak : 1200px ;
+
+
+ $yellow: #FDA000 ;
+ $red: #2c446a ; //main color //is now dark-blue
+ $dark-blue: #2c446a ; //main color //is now dark-blue
+ $dark-green: #083913;
+ $gray: #e9e9e9;
+ $dark-gray: #3D3938 ;
+ $light-gray: #95989A ;
+ $light-gray2: #716D6C;
+ $lighter-gray: #E3E2DF;
+
+ $white: #fafafa;
+
+
+
+/*utliity classes*/
+.center{
+    text-align: center;
+}
+
+
+.clear { clear: both;}
+
+
+.btn-bigger{ font-size: 18px; }
+
+.btn-black{
+  display: block;
+  border: solid thin black;
+  color: black;
+  text-align: left;
+  max-width: 476px;
+  padding: 10px;
+  @include border-radius(10px);
+  margin-bottom: 15px;
+}
+
+
