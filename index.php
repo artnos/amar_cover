@@ -4,12 +4,12 @@
     <title>
         Amaranth Medical :
         Articles    </title>
-    <link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon">    
+    <link href="favicon.ico" type="image/x-icon" rel="icon"><link href="favicon.ico" type="image/x-icon" rel="shortcut icon">
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     
-	<link rel="stylesheet" href="/css/bootstrap.min.css">
-	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/style.css">
      
 <style>
 .black {
@@ -39,21 +39,21 @@ width: 230px;
 
 <nav id="side-nav">
    <div id="brand" class="logo-lockup">
-<a href="/" class="large mobile-logo"><img src="/img/logo.png" alt="" class="img-responsive"></a> 
-<!--         <a href="/" class="mini"><img src="img/logo-mobile.png" alt="" class="img-responsive"></a> -->
+<a href="" class="large mobile-logo"><img src="img/logo.png" alt="" class="img-responsive"></a>
+<!--         <a href="" class="mini"><img src="img/logo-mobile.png" alt="" class="img-responsive"></a> -->
 <div class="left">
-<a href="/"><img src="/img/logoMark_C76.png"></a>
+<a href=""><img src="img/logoMark_C76.png"></a>
 </div>
 <div class="right">
-  <a href="/"><img src="/img/logoText76.png"></a>
+  <a href=""><img src="img/logoText76.png"></a>
 </div>
    </div>
    <div id="menu-wrapper">
            <div class="left">
                <!-- <i class="fa fa-bars nav-switch" aria-hidden="true"></i>
                <i class="fa fa-search" aria-hidden="true"></i> -->
-               <img class="nav-switch" src="/img/bars.svg" alt="">
-               <img class="search-btn" src="/img/search.svg" alt="">
+               <img class="nav-switch" src="img/bars.svg" alt="">
+               <img class="search-btn" src="img/search.svg" alt="">
 
            </div>
             <div class="right">
@@ -62,79 +62,79 @@ width: 230px;
   
 
 			
-		 		<li><a href="/"> Home </a></li>
+		 		<li><a href=""> Home </a></li>
 		
 	
 	
 			             
 			<li class="panel panel-default">
-		       		       <a class="parent-btn" href="/about-us" data-z="#collapse8">
+		       		       <a class="parent-btn" href="about-us" data-z="#collapse8">
 		       About Us</a>
 		       <i class="fa fa-angle-down collapsed" aria-expanded="false" aria-controls="collapse8" role="button" data-toggle="collapse" data-target="#collapse8" aria-hidden="true"></i>
 		     <ul id="collapse8" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading8" aria-expanded="false" style="height: 0px;">
 	
 								                    
-				<li class="level2"><a href="/management-team"> Management Team </a></li>
+				<li class="level2"><a href="management-team"> Management Team </a></li>
 
 												                    
-				<li class="level2"><a href="/board-of-directors"> Board of Directors </a></li>
+				<li class="level2"><a href="board-of-directors"> Board of Directors </a></li>
 
 												                    
-				<li class="level2"><a href="/press-release"> Press Releases </a></li>
+				<li class="level2"><a href="press-release"> Press Releases </a></li>
 
 					
 		    
 		    </ul></li>
 			             
 			<li class="panel panel-default">
-		       		       <a class="parent-btn" href="/the-amaranth-advantage" data-z="#collapse4">
+		       		       <a class="parent-btn" href="the-amaranth-advantage" data-z="#collapse4">
 		       The Amaranth Advantage</a>
 		       <i class="fa fa-angle-down collapsed" aria-expanded="false" aria-controls="collapse4" role="button" data-toggle="collapse" data-target="#collapse4" aria-hidden="true"></i>
 		     <ul id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4" aria-expanded="false" style="height: 0px;">
 	
 								                    
-				<li class="level2"><a href="/magnitude"> MAGNITUDE <sup>®</sup> </a></li>
+				<li class="level2"><a href="magnitude"> MAGNITUDE <sup>®</sup> </a></li>
 
 												                    
-				<li class="level2"><a href="/aptitude"> APTITUDE <sup>®</sup> </a></li>
+				<li class="level2"><a href="aptitude"> APTITUDE <sup>®</sup> </a></li>
 
 												                    
-				<li class="level2"><a href="/fortitude"> FORTITUDE <sup>®</sup> </a></li>
+				<li class="level2"><a href="fortitude"> FORTITUDE <sup>®</sup> </a></li>
 
 					
 		    
 		    </ul></li>
 			             
 			<li class="panel panel-default">
-		       		       <a class="parent-btn" href="/learning-center" data-z="#collapse44">
+		       		       <a class="parent-btn" href="learning-center" data-z="#collapse44">
 		       Learning Center</a>
 		       <i class="fa fa-angle-down collapsed" aria-expanded="false" aria-controls="collapse44" role="button" data-toggle="collapse" data-target="#collapse44" aria-hidden="true"></i>
 		     <ul id="collapse44" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading44" aria-expanded="false" style="height: 0px;">
 	
 								                    
-				<li class="level2"><a href="/learning-center#amar"> Amaranth Studies </a></li>
+				<li class="level2"><a href="learning-center#amar"> Amaranth Studies </a></li>
 
 												                    
-				<li class="level2"><a href="/learning-center#publications"> Publications </a></li>
+				<li class="level2"><a href="learning-center#publications"> Publications </a></li>
 
 												                    
-				<li class="level2"><a href="/learning-center#library"> Library </a></li>
+				<li class="level2"><a href="learning-center#library"> Library </a></li>
 
 					
 		    
 		    </ul></li>
 			             
 			<li class="panel panel-default">
-		       		       <a class="parent-btn" href="/contact" data-z="#collapse20">
+		       		       <a class="parent-btn" href="contact" data-z="#collapse20">
 		       Contact Amaranth</a>
 		       <i class="fa fa-angle-down collapsed" aria-expanded="false" aria-controls="collapse20" role="button" data-toggle="collapse" data-target="#collapse20" aria-hidden="true"></i>
 		     <ul id="collapse20" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading20" aria-expanded="false" style="height: 0px;">
 	
 								                    
-				<li class="level2"><a href="/careers"> Careers </a></li>
+				<li class="level2"><a href="careers"> Careers </a></li>
 
 												                    
-				<li class="level2"><a href="/legal"> Legal </a></li>
+				<li class="level2"><a href="legal"> Legal </a></li>
 
 					
 		    
@@ -270,7 +270,7 @@ width: 230px;
 </div>
 -->
 <!--    <div class="item" >
-   	<img src="/files/ba/ef/c6/f4f65f18f8804e29af8536c4b124886b/women.jpg" class="img-responsive" alt="">
+   	<img src="files/ba/ef/c6/f4f65f18f8804e29af8536c4b124886b/women.jpg" class="img-responsive" alt="">
    	<div class="left-copy">
    		<div>No special procedures, equipment, or design features are required for device delivery, navigation and deployment. Amaranth’s scaffolds eventually dissolve, allowing the vessel to fully remodel and regain natural, unencumbered movement and function.</div>
    	</div>
@@ -349,17 +349,17 @@ width: 230px;
 <p>Amaranth Medical is dedicated to advancing the field of interventional cardiology through the development of the thinnest bioresorbable drug eluting scaffolds that perform like metallic stents. &nbsp; Our latest investigational scaffold, MAGNITUDE<sup>®</sup>, was designed using our proprietary bioresorbable technology and from the learnings of our first and second generation devices, FORTITUDE<sup>®</sup>; and APTITUDE<sup>®</sup>, respectively. &nbsp;With sizes in the sub-100 µm range, MAGNITUDE<sup>®</sup>&nbsp;is the thinnest bioresorbable scaffold developed to date.&nbsp;</p>
 <p><span style="font-size: 14pt;"><em><strong><span style="color: #e20a16;"><span style="color: #2c446a;">Our proprietary bioresorbable technology platform is designed to be as thin and strong as metal stents with all of the advantages of bioresorption.</span><sup><a href="#_ftn1" name="_ftnref1">1</a></sup></span></strong></em></span></p>
 <div class="row row-special">
-<div class="col-md-4 first"><a href="/magnitude"><img class="img-responsive" src="/files/12/1c/44/0214a9b518bc41d8bb4c3128913c6c60/first-sm.png&#10;" alt=""></a>
+<div class="col-md-4 first"><a href="magnitude"><img class="img-responsive" src="files/12/1c/44/0214a9b518bc41d8bb4c3128913c6c60/first-sm.png&#10;" alt=""></a>
 <p>&nbsp;<br></p>
-<p><a href="/magnitude">Amaranth Medical is focused on the development of the thinnest, strongest and most versatile, bioresorbable scaffolds.</a></p>
+<p><a href="magnitude">Amaranth Medical is focused on the development of the thinnest, strongest and most versatile, bioresorbable scaffolds.</a></p>
 </div>
-<div class="col-md-4"><a href="/the-amaranth-advantage"><img class="img-responsive" src="/files/74/40/63/e1beecbad8f44af380ca7e1e5966baaf/middle-sm2.jpg" alt=""></a>
+<div class="col-md-4"><a href="the-amaranth-advantage"><img class="img-responsive" src="files/74/40/63/e1beecbad8f44af380ca7e1e5966baaf/middle-sm2.jpg" alt=""></a>
 <p>&nbsp;<br></p>
-<p><a href="/the-amaranth-advantage">Our scaffolds are made using our proprietary manufacturing process from a unique bioresorbable polymer.</a></p>
+<p><a href="the-amaranth-advantage">Our scaffolds are made using our proprietary manufacturing process from a unique bioresorbable polymer.</a></p>
 </div>
-<div class="col-md-4 last"><a href="/management-team"><img class="img-responsive" src="/files/38/6f/c7/bbdff92c73834cf689153968e583c830/amar-me-mini.jpg" alt=""></a>
+<div class="col-md-4 last"><a href="management-team"><img class="img-responsive" src="files/38/6f/c7/bbdff92c73834cf689153968e583c830/amar-me-mini.jpg" alt=""></a>
 <p>&nbsp;<br></p>
-<p><a href="/management-team">Learn more about our company, technology and leadership.</a></p>
+<p><a href="management-team">Learn more about our company, technology and leadership.</a></p>
 </div>
 </div>
 <!-- fix this tiny mc wont allow div with classes -->
@@ -373,8 +373,8 @@ width: 230px;
 
 <div class="news-preview ">
 	<small>4May 16, 2017</small>
-		        <a href="/articles/edit/56"><i class="fa fa-pencil fa-button pull-right"></i> </a>        	<h4>
-		<a href="/press-release/56-Amaranth-Medical-Provides-Clinical-and-Commercial-Update-on-115-micron-APTITUDE-Sirolimus-Eluting-Bioresorbable-Scaffold">Amaranth Medical Provides Clinical and Commercial Update on 115-micron APTITUDE  Sirolimus-Eluting Bioresorbable Scaffold </a>	</h4>
+		        <a href="articles/edit/56"><i class="fa fa-pencil fa-button pull-right"></i> </a>        	<h4>
+		<a href="press-release/56-Amaranth-Medical-Provides-Clinical-and-Commercial-Update-on-115-micron-APTITUDE-Sirolimus-Eluting-Bioresorbable-Scaffold">Amaranth Medical Provides Clinical and Commercial Update on 115-micron APTITUDE  Sirolimus-Eluting Bioresorbable Scaffold </a>	</h4>
 	<p>
 		</p>	
 </div>
@@ -382,8 +382,8 @@ width: 230px;
 
 <div class="news-preview ">
 	<small>4November 1, 2016</small>
-		        <a href="/articles/edit/25"><i class="fa fa-pencil fa-button pull-right"></i> </a>        	<h4>
-		<a href="/press-release/25-initiates-trial-of-sub100micron-magnitude-sirolimuseluting-bioresorbable-scaffold">Amaranth Medical Initiates Trial of Sub-100-Micron MAGNITUDE Sirolimus-Eluting Bioresorbable Scaffold</a>	</h4>
+		        <a href="articles/edit/25"><i class="fa fa-pencil fa-button pull-right"></i> </a>        	<h4>
+		<a href="press-release/25-initiates-trial-of-sub100micron-magnitude-sirolimuseluting-bioresorbable-scaffold">Amaranth Medical Initiates Trial of Sub-100-Micron MAGNITUDE Sirolimus-Eluting Bioresorbable Scaffold</a>	</h4>
 	<p>
 		</p>	
 </div>
@@ -391,8 +391,8 @@ width: 230px;
 
 <div class="news-preview ">
 	<small>4October 31, 2016</small>
-		        <a href="/articles/edit/26"><i class="fa fa-pencil fa-button pull-right"></i> </a>        	<h4>
-		<a href="/press-release/26-9months-clinical-and-imaging-results-of-the-fortitude-sirolimuseluting-bioresorbable-scaffold-presented-at-tct">Amaranth Medical 9-Months Clinical and Imaging Results of the FORTITUDE Sirolimus-Eluting Bioresorbable Scaffold Presented at TCT</a>	</h4>
+		        <a href="articles/edit/26"><i class="fa fa-pencil fa-button pull-right"></i> </a>        	<h4>
+		<a href="press-release/26-9months-clinical-and-imaging-results-of-the-fortitude-sirolimuseluting-bioresorbable-scaffold-presented-at-tct">Amaranth Medical 9-Months Clinical and Imaging Results of the FORTITUDE Sirolimus-Eluting Bioresorbable Scaffold Presented at TCT</a>	</h4>
 	<p>
 		</p>	
 </div>
@@ -416,47 +416,47 @@ width: 230px;
                             
 <div class="row">
 		<div><ul>
-		<li class="level1"><a href="/">Home</a></li>	
+		<li class="level1"><a href="">Home</a></li>
 				<li><i class="fa fa-linkedin-square" aria-hidden="true"></i></li>
 	         <li><i class="fa fa-twitter-square" aria-hidden="true"></i></li>
 						</ul></div>
 			             
 			<div><ul>
-		<li class="level1"><a href="/about-us">About Us</a></li>	
+		<li class="level1"><a href="about-us">About Us</a></li>
 					                    
-					<li class="level2"><a href="/management-team"> Management Team </a></li>
+					<li class="level2"><a href="management-team"> Management Team </a></li>
 								                    
-					<li class="level2"><a href="/board-of-directors"> Board of Directors </a></li>
+					<li class="level2"><a href="board-of-directors"> Board of Directors </a></li>
 								                    
-					<li class="level2"><a href="/press-release"> Press Releases </a></li>
+					<li class="level2"><a href="press-release"> Press Releases </a></li>
 									</ul></div>
 			             
 			<div><ul>
-		<li class="level1"><a href="/the-amaranth-advantage">The Amaranth Advantage</a></li>	
+		<li class="level1"><a href="the-amaranth-advantage">The Amaranth Advantage</a></li>
 					                    
-					<li class="level2"><a href="/magnitude"> MAGNITUDE <sup>®</sup> </a></li>
+					<li class="level2"><a href="magnitude"> MAGNITUDE <sup>®</sup> </a></li>
 								                    
-					<li class="level2"><a href="/aptitude"> APTITUDE <sup>®</sup> </a></li>
+					<li class="level2"><a href="aptitude"> APTITUDE <sup>®</sup> </a></li>
 								                    
-					<li class="level2"><a href="/fortitude"> FORTITUDE <sup>®</sup> </a></li>
+					<li class="level2"><a href="fortitude"> FORTITUDE <sup>®</sup> </a></li>
 									</ul></div>
 			             
 			<div><ul>
-		<li class="level1"><a href="/learning-center">Learning Center</a></li>	
+		<li class="level1"><a href="learning-center">Learning Center</a></li>
 					                    
-					<li class="level2"><a href="/learning-center#amar"> Amaranth Studies </a></li>
+					<li class="level2"><a href="learning-center#amar"> Amaranth Studies </a></li>
 								                    
-					<li class="level2"><a href="/learning-center#publications"> Publications </a></li>
+					<li class="level2"><a href="learning-center#publications"> Publications </a></li>
 								                    
-					<li class="level2"><a href="/learning-center#library"> Library </a></li>
+					<li class="level2"><a href="learning-center#library"> Library </a></li>
 									</ul></div>
 			             
 			<div><ul>
-		<li class="level1"><a href="/contact">Contact Amaranth</a></li>	
+		<li class="level1"><a href="contact">Contact Amaranth</a></li>
 					                    
-					<li class="level2"><a href="/careers"> Careers </a></li>
+					<li class="level2"><a href="careers"> Careers </a></li>
 								                    
-					<li class="level2"><a href="/legal"> Legal </a></li>
+					<li class="level2"><a href="legal"> Legal </a></li>
 									</ul></div>
 			             
 	</div>
@@ -486,10 +486,10 @@ width: 230px;
         
 
     
-	<script src="/js/jquery.min.js"></script>
-	<script src="/js/bootstrap.min.js"></script>
-	<script src="/js/enquire.min.js"></script>
-	<script src="/js/site.js"></script>
+	<script src="js/jquery.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/enquire.min.js"></script>
+	<script src="js/site.js"></script>
     
 
 </body></html>
